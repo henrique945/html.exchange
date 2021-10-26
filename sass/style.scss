@@ -771,6 +771,8 @@ form {
 			
 			img {
 				width: 90px;
+				height: 90px;
+				object-fit: cover;
 				@include border-radius(50%);
 			}
 		}
